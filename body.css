@@ -1,0 +1,12 @@
+body{
+    background-color: #efffd6;
+}
+
+h2 {
+    background-color: tomato;
+    color: white;
+    border: 2px soild black;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+}
